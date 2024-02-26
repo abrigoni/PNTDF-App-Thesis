@@ -1,0 +1,90 @@
+import {ApplicationStyles, Colors} from '@/theme';
+import {StyleSheet} from 'react-native';
+
+export default StyleSheet.create({
+  header: {
+    ...ApplicationStyles.shadow,
+    position: 'absolute',
+    padding: 15,
+    paddingTop: 30,
+    width: '100%',
+    zIndex: 2,
+    borderBottomWidth: 1,
+    borderColor: Colors.white,
+  },
+  text: {
+    width: '95%',
+    fontSize: 18,
+    color: Colors.white,
+    lineHeight: 24,
+    marginBottom: 20,
+  },
+  btnContainer: {
+    flexDirection: 'row',
+  },
+  btn: {
+    flex: 1,
+    backgroundColor: 'rgba(0,0,0,0.25)',
+    flexDirection: 'row',
+    borderRadius: 5,
+    borderWidth: 1,
+    justifyContent: 'center',
+    borderColor: Colors.white,
+    paddingHorizontal: 20,
+    paddingVertical: 12,
+  },
+  btnIcon: {
+    marginRight: 15,
+  },
+  btnText: {
+    color: Colors.white,
+    textTransform: 'uppercase',
+    fontSize: 16,
+    fontWeight: 'bold',
+    textAlignVertical: 'center',
+  },
+  emergencyContent: {
+    flexDirection: 'row',
+    marginBottom: 20,
+  },
+  title: {
+    fontSize: 20,
+    color: Colors.white,
+    fontWeight: 'bold',
+    lineHeight: 26,
+    marginBottom: 8,
+  },
+  coords: {
+    fontSize: 18,
+    color: Colors.white,
+    fontWeight: 'bold',
+    lineHeight: 26,
+    marginBottom: 15,
+  },
+  date: {
+    fontSize: 16,
+    color: Colors.white,
+    fontWeight: 'bold',
+  },
+  btnHide: {
+    position: 'absolute',
+    top: 15,
+    right: 5,
+    width: 35,
+    height: 35,
+  },
+  hide: {
+    ...ApplicationStyles.shadow,
+    zIndex: 2,
+    position: 'absolute',
+    top: 10,
+    left: 10,
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    borderWidth: 2,
+    borderColor: Colors.white,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});

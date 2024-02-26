@@ -1,0 +1,12 @@
+{
+  "name": "PNTDFrn",
+  "displayName": "PNTDFrn",
+  "plugins": [
+    "react-native-pytorch-core"
+  ],
+  "expo": {
+    "plugins": [
+      "react-native-pytorch-core"
+    ]
+  }
+}
