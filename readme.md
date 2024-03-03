@@ -10,6 +10,7 @@
 
 ### Imagenes de la App
 
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
 <img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/0_launch.png?raw=true" height="400" width="200"/>
 
 <img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/1_home.png?raw=true" height="400" width="200"/>
@@ -24,3 +25,5 @@
 
 <img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/11_clasificador.jpeg?raw=true" height="400" width="200"/>
 
+
+</div>
