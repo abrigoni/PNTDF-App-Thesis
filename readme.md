@@ -10,10 +10,17 @@
 
 ### Imagenes de la App
 
-![Launch Screen](https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/0_launch.png?raw=true)
-![Home Screen](https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/1_home.png?raw=true)
-![Senderos Screen](https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/2_senderos.png?raw=true)
-![Sendero Mapa Screen](https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/3_Sendero_Mapa.png?raw=true)
-![Especies Screen](https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/4_Especies.png?raw=true)
-![Menu + Clasificador Screen](https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/10_pantalla_menu_clasificador.PNG?raw=true)
-![Clasificaor Screen](https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/11_clasificador.jpeg?raw=true)
+<img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/0_launch.png?raw=true" height="400" width="200"/>
+
+<img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/1_home.png?raw=true" height="400" width="200"/>
+
+<img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/2_senderos.png?raw=true" height="400" width="200"/>
+
+<img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/3_Sendero_Mapa.png?raw=true" height="400" width="200"/>
+
+<img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/4_Especies.png?raw=true" height="400" width="200"/>
+
+<img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/10_pantalla_menu_clasificador.PNG?raw=true" height="400" width="200"/>
+
+<img src="https://github.com/abrigoni/PNTDF-App-Thesis/blob/main/demo/11_clasificador.jpeg?raw=true" height="400" width="200"/>
+
